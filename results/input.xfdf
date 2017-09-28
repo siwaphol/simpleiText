@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xfdf xmlns="http://ns.adobe.com/xfdf/" xml:space="preserve">
+<fields><field name="year">
+<value>2560</value>
+</field>
+<field name="tax_id">
+<value>0 1055 31085 43 4</value>
+</field>
+<field name="branch_id">
+<value>00000</value>
+</field>
+<field name="Text1">
+<field name="2">
+<value>บริษัท ชอยส์ มินิสโตร์ จำกัด</value>
+</field>
+<field name="7">
+<value>286</value>
+</field>
+<field name="11">
+<value>ช้างคลาน</value>
+</field>
+<field name="12">
+<value>ช้างคลาน</value>
+</field>
+<field name="13">
+<value>เมือง</value>
+</field>
+<field name="14">
+<value>เชียงใหม่</value>
+</field>
+<field name="15">
+<value>50200</value>
+</field>
+</field>
+<field name="Radio Button0">
+<value>0</value>
+</field>
+<field name="Radio Button1">
+<value>8</value>
+</field>
+<field name="Radio Button2">
+<value>Yes</value>
+</field>
+<field name="page_all">
+<value>4</value>
+</field>
+<field name="count_1_1">
+<value>33</value>
+</field>
+<field name="count_1_all">
+<value>33</value>
+</field>
+<field name="Text2">
+<field name="2">
+<value>644809.2</value>
+</field>
+<field name="19">
+<value>644809.2</value>
+</field>
+<field name="3">
+<value>4881.96</value>
+</field>
+<field name="20">
+<value>4881.96</value>
+</field>
+<field name="22">
+<value>4881.96</value>
+</field>
+</field>
+<field name="payer">
+<value>นางฤทัยรัตน์ วิสิทธิ์</value>
+</field>
+<field name="position">
+<value>รองประธานกรรมการ</value>
+</field>
+</fields>
+</xfdf>
